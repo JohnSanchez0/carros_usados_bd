@@ -1,5 +1,7 @@
 # Proyecto: carros_usados (DB Admin)
 
+> **Nota importante:** Este proyecto está configurado para que, al levantarse por primera vez, la base de datos se cree y se cargue automáticamente con el esquema y los datos de prueba iniciales sin necesidad de intervención manual.
+
 Este repositorio contiene la configuración de **Docker** para desplegar una base de datos PostgreSQL diseñada para la gestión de un concesionario de compraventa de vehículos.
 
 ## Guía de Inicio Rápido
